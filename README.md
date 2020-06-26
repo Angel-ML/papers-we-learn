@@ -12,6 +12,7 @@ Angel 计算机领域论文实践与创新
 8. PSGraph How Tencent trains extremely large-scale graphs with Spark(PSGraph).pdf
 
 ## graph-embedding
+收录angel实现的图表示学习相关论文
 1. DeepWalk Online Learning of Social Representations(DeepWalk).pdf
 2. LINE Large-scale Information Network Embedding(LINE).pdf
 3. Metapath2Vec Scalable Representation Learning for Heterogeneous Networks(Metapath2Vec).pdf
