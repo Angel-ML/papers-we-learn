@@ -11,7 +11,14 @@ Angel 计算机领域论文实践与创新
 7. Graphx Unifying Data-Parallel and Graph-Parallel Analytics(Graphx).pdf
 8. PSGraph How Tencent trains extremely large-scale graphs with Spark(PSGraph).pdf
 
-## graph-embedding
+## graph mining
+收录angel实现的传统图算法
+1. The PageRank Citation Ranking Bringing Order to the Web(Pagerank).pdf
+2. The H-index of a network node and its relation to degree and coreness(kcore hindex).pdf
+3. HyperAnf Approximating the Neighbourhood Function of Very Large Graphs on a Budget(HyperAnf).pdf
+4. Centralities in Large Networks Algorithms and Observations(Closeness).pdf
+
+## graph embedding
 收录angel实现的图表示学习相关论文
 1. DeepWalk Online Learning of Social Representations(DeepWalk).pdf
 2. LINE Large-scale Information Network Embedding(LINE).pdf
