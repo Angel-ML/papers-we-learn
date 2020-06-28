@@ -31,3 +31,21 @@ Angel 计算机领域论文实践与创新
 3. Inductive Representation Learning On Large Graphs(Graphsage).pdf
 4. Semi-Supervised Classification With Graph Convolutional Networks(GCN).pdf
 5. DeepTrax Embedding Graphs of Financial Transactions(Financial).pdf
+
+
+## machine learning
+收录angel已实现或即将实现的机器学习算法论文
+1. Ad Click Prediction ~ a View from the Trenches(FTRL).pdf
+2. An Introduction to Logistic Regression Analysis and Reporting.pdf
+3. Attentional Factorization Machines ~ Learning the Weighted of Feature Interactions via Attention Networks(AttentionFM).pdf
+4. Factorization Machines(FM).pdf
+5. DeepFM A Factorization-Machine based Neural Network for CTR Prediction(DeepFM).pdf
+6. xDeepFM~ Combining Explicit and Implicit Feature Interactions for Recommender Systems(xDeepFM).pdf
+7. LDA ~ A Robust and Large-scale Topic Modeling System(LDA).pdf
+8. Product-based Neural Networks for User Response Prediction(PNN).pdf
+9. Space-Efficient Online Computation of Quantile Summaries(Quantile Summaries).pdf
+10. Web-Scale K-Means Clustering(Kmeans).pdf
+11. Wide & Deep Learning for Recommender Systems(DeepAndWide).pdf
+12. XGBoost ~ A Scalable Tree Boosting System(XGBoost).pdf
+13. Deep & Cross Network for Ad Click Predictions(DCN).pdf
+
