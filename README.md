@@ -23,3 +23,11 @@ Angel 计算机领域论文实践与创新
 1. DeepWalk Online Learning of Social Representations(DeepWalk).pdf
 2. LINE Large-scale Information Network Embedding(LINE).pdf
 3. Metapath2Vec Scalable Representation Learning for Heterogeneous Networks(Metapath2Vec).pdf
+
+## graph neural network
+收录angel已实现或即将实现的图神经网络相关论文
+1. Graph Convolutional Neural Networks for Web-Scale Recommender Systems(Pinsage).pdf
+2. How Powerful Are Graph Neural Networks(GNN and WL Test).pdf
+3. Inductive Representation Learning On Large Graphs(Graphsage).pdf
+4. Semi-Supervised Classification With Graph Convolutional Networks(GCN).pdf
+5. DeepTrax Embedding Graphs of Financial Transactions(Financial).pdf
