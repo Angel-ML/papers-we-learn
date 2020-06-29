@@ -49,3 +49,8 @@ Angel 计算机领域论文实践与创新
 12. XGBoost ~ A Scalable Tree Boosting System(XGBoost).pdf
 13. Deep & Cross Network for Ad Click Predictions(DCN).pdf
 
+## nlp
+
+自然语言处理相关的算法论文
+
+1. Distributed Representations of Words and Phrases and their Compositionality (Word2Vec).pdf
