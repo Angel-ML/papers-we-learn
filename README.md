@@ -1,5 +1,5 @@
 # papers-we-learn
-Angel 计算机领域论文实践与创新
+旨在归纳Angel高性能分布式机器学习与图计算平台实践过程中所借鉴的计算机领域论文，理论与实践相结合
 ## distributed systems
 收录angel实现分布式参数服务器、以及机器学习、图计算框架时借鉴的论文
 1. Resilient Distributed Datasets A Fault-Tolerant Abstraction for In-Memory Cluster Computing(Spark).pdf
