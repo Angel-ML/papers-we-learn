@@ -53,9 +53,4 @@
 
 自然语言处理相关的算法论文
 
-<<<<<<< HEAD
 1. Distributed Representations of Words and Phrases and their Compositionality (Word2Vec).pdf [paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-
-=======
-1. Distributed Representations of Words and Phrases and their Compositionality (Word2Vec).pdf
->>>>>>> 2d3bca4955ebf60c5121cf27e98364d020b0e306
