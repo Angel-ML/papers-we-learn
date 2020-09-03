@@ -4,8 +4,8 @@
 收录angel实现分布式参数服务器、以及机器学习、图计算框架时借鉴的论文
 1. **Resilient Distributed Datasets A Fault-Tolerant Abstraction for In-Memory Cluster Computing(Spark)**.  [paper](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
 2. **Parameter Server for Distributed Machine Learning(Parameter Server)**. [paper](https://pdfs.semanticscholar.org/30e9/4e24d67994c5a8e2f20f852a51d28a720de2.pdf)
-3. **Angel a new large-scale machine learning system(Angel). ** [paper](https://watermark.silverchair.com/nwx018.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAApgwggKUBgkqhkiG9w0BBwagggKFMIICgQIBADCCAnoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM7WLJn4lqzHtLysYMAgEQgIICS1NYL7L5PcMcKzXEss8zpE5bJGQM8Lp_eK177hnLQYZj8Po6_25C0NaYCld_YGmKREgMhLy498bUT5vRKrUncFOkkVFmfLIwxZ-vUg0Czgo63lZWZYgjHBe8jt0zDKVlvWt4lIgP0DDqJvmXjzqRXS3uw8CPHPevqXpFpBwqw5UU-Txky0YxP_VWRuF3qpXMSqqk8nfiTCracFXuwNO2VSOibKcjGUTA-iiI2jzwd2VbKZij1pl9FLBdvtf-cay203nXfHdMbks2h9aETkKGNinch2B46oBifczW8aw4-OVsKTS2SSgt0FqLFDPr-_lzEEYKSXhkSFkQPSpRemrAuTQr9cOPWjk5WK9tMP862Ld19d7hDy6Q7_mawu0SKkjiS6pfXQ6EpJlck97BwibHUYdlDGsSWwi7mMcsPIxxiGNFU7SoDuHTXDyiOSskg6HezlGwyZ5ZC_BMWrzW3auluw5SrL_o87NRhkSSnDJ5W5jszzvjjTbGLDGWjsusHieXOzVkJUiSmUF3kkr8wz_DV2fpjffdRgsxBkeSMPEhpnmYIaP-uB9CRnbhqFTy7FzscG0GgrgvhGI8CEd255b0HyYLLrdhUYQ-2zZnP0QokWtoVadt8L1VLRQFqut76VlaId8s8mDwqnONMYaDdXjxyRcg1nIW7hH3eAI_eYfEDF2xipmuMrv8uo4eY_aiiAhJYGg7O9oesspWGS9dVkP0TuujwnRweNo3CKyGarux1re9ysLu105TNUFM3NfCDCal5My2m6cPfvUnYrEZ)
-4. **Pregel A System for Large-scale Graph Processing(Pregel). ** [paper](https://kowshik.github.io/JPregel/pregel_paper.pdf)
+3. **Angel a new large-scale machine learning system(Angel).** [paper](https://watermark.silverchair.com/nwx018.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAApgwggKUBgkqhkiG9w0BBwagggKFMIICgQIBADCCAnoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM7WLJn4lqzHtLysYMAgEQgIICS1NYL7L5PcMcKzXEss8zpE5bJGQM8Lp_eK177hnLQYZj8Po6_25C0NaYCld_YGmKREgMhLy498bUT5vRKrUncFOkkVFmfLIwxZ-vUg0Czgo63lZWZYgjHBe8jt0zDKVlvWt4lIgP0DDqJvmXjzqRXS3uw8CPHPevqXpFpBwqw5UU-Txky0YxP_VWRuF3qpXMSqqk8nfiTCracFXuwNO2VSOibKcjGUTA-iiI2jzwd2VbKZij1pl9FLBdvtf-cay203nXfHdMbks2h9aETkKGNinch2B46oBifczW8aw4-OVsKTS2SSgt0FqLFDPr-_lzEEYKSXhkSFkQPSpRemrAuTQr9cOPWjk5WK9tMP862Ld19d7hDy6Q7_mawu0SKkjiS6pfXQ6EpJlck97BwibHUYdlDGsSWwi7mMcsPIxxiGNFU7SoDuHTXDyiOSskg6HezlGwyZ5ZC_BMWrzW3auluw5SrL_o87NRhkSSnDJ5W5jszzvjjTbGLDGWjsusHieXOzVkJUiSmUF3kkr8wz_DV2fpjffdRgsxBkeSMPEhpnmYIaP-uB9CRnbhqFTy7FzscG0GgrgvhGI8CEd255b0HyYLLrdhUYQ-2zZnP0QokWtoVadt8L1VLRQFqut76VlaId8s8mDwqnONMYaDdXjxyRcg1nIW7hH3eAI_eYfEDF2xipmuMrv8uo4eY_aiiAhJYGg7O9oesspWGS9dVkP0TuujwnRweNo3CKyGarux1re9ysLu105TNUFM3NfCDCal5My2m6cPfvUnYrEZ)
+4. **Pregel A System for Large-scale Graph Processing(Pregel).** [paper](https://kowshik.github.io/JPregel/pregel_paper.pdf)
 5. **Distributed GraphLab A Framework for Machine Learning and Data Mining in the cloud(GraphLab).** [paper](http://vldb.org/pvldb/vol5/p716_yuchenglow_vldb2012.pdf)
 6. **PowerGraph Distributed Graph-Parallel Computation on Natural Graphs(PowerGraph).** [paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf)
 7. **Graphx Unifying Data-Parallel and Graph-Parallel Analytics(Graphx).** [paper](https://endymecy.gitbooks.io/spark-graphx-source-analysis/content/docs/graphx.pdf)
@@ -48,7 +48,7 @@
 10. **Web-Scale K-Means Clustering(Kmeans).** [paper](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf)
 11. **Wide & Deep Learning for Recommender Systems(DeepAndWide).** [paper](https://arxiv.org/pdf/1606.07792.pdf)
 12. **XGBoost ~ A Scalable Tree Boosting System(XGBoost).** [paper](https://arxiv.org/pdf/1603.02754.pdf)
-13. **Deep & Cross Network for Ad Click Predictions(DCN). **[paper](https://arxiv.org/pdf/1708.05123.pdf)
+13. **Deep & Cross Network for Ad Click Predictions(DCN).**[paper](https://arxiv.org/pdf/1708.05123.pdf)
 
 ## nlp
 
